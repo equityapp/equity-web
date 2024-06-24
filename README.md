@@ -1,10 +1,9 @@
-# Qwik City App ⚡️
+# Equity App ⚡️
 
-- [Qwik Docs](https://qwik.dev/)
-- [Discord](https://qwik.dev/chat)
-- [Qwik GitHub](https://github.com/QwikDev/qwik)
-- [@QwikDev](https://twitter.com/QwikDev)
-- [Vite](https://vitejs.dev/)
+- [Equity Docs](https://equityapp.org/dev/)
+- [Discord](https://equityapp.org/chat)
+- [Equity App GitHub](https://github.com/equityapp)
+- [@QwikDev](https://twitter.com/equityapp)
 
 ---
 
